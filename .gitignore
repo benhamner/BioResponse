@@ -1,0 +1,8 @@
+# Data files
+Data/*.csv
+
+# Submission files
+Submissions/*.csv
+
+# Python
+*.pyc
