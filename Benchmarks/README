@@ -1,0 +1,6 @@
+This folder contains code for four benchmarks:
+
+-rf_benchmark.py (Random Forest Benchmark)
+-svm_benchmark.py (Support Vector Machine Benchmark)
+-optimized_value_benchmark.py (Optimized Constant Probability Benchmark)
+-uniform_benchmark.py (All predictions have probability 0.5)
